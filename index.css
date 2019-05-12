@@ -1,0 +1,37 @@
+body{
+background-image: url("https://media.giphy.com/media/TnFpifTlxvjkA/giphy.gif");
+background-size: 100% 100%;
+background-repeat: no-repeat;
+color: white;
+background-attachment: fixed;
+}
+#myContainer{
+  width:1000px;
+  height: 150px;
+  position: relative;
+  top: 400px;
+}
+#myAnimation{
+  position: absolute;
+  height: 150px;
+  width: 150px;
+}
+#boton{
+  width: 100px;
+  height: 30px;
+  background-color: red;
+  color: white;
+  position: relative;
+  left: 100px;
+}
+h1{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+  background: black;
+
+}
+h1:hover{
+  color: pink;
+}
